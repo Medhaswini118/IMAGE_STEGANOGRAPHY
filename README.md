@@ -14,7 +14,7 @@ It was developed as part of an academic course on secure software development.
 - **Language:** Java  
 - **GUI:** Java Swing  
 - **Algorithms:** LSB (Least Significant Bit) based steganography, basic encryption for message security  
-- **IDE:** IntelliJ IDEA / Eclipse / NetBeans (choose the one you used)
+- **IDE:** Eclipse 
 
 ---
 
